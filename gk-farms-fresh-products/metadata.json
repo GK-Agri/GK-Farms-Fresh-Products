@@ -1,0 +1,6 @@
+{
+  "name": "GK Farms Fresh Products",
+  "description": "Agriculture & Farm Products Marketplace with Customer, Vendor, and Admin portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
